@@ -913,6 +913,7 @@
         <item>24m</item>
         <item>32m</item>
         <item>48m</item>
+        <item>128m</item>
     </string-array>
 
     <string-array name="values_heapsize" translatable="false">
@@ -921,6 +922,7 @@
         <item>24m</item>
         <item>32m</item>
         <item>48m</item>
+        <item>128m</item>
     </string-array>
 
     <string-array name="pref_zram_size_entries">
